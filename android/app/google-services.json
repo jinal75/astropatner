@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522488317755",
+    "project_id": "astromtpatner",
+    "storage_bucket": "astromtpatner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522488317755:android:396ec93f0ad07ff4c8991e",
+        "android_client_info": {
+          "package_name": "com.astromt.partner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVglHYQKizTEC91HOgzjKcgFaLpn4bubM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
